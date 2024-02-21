@@ -3,7 +3,7 @@
 > [!NOTE]
 > Halo semuanya, kali ini kita akan belajar untuk mendeteksi sentuhan pada logam menggunakan sensor KY-036 menggunakan Arduino UNO
 
-![IMG_9481 3 (1)](https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/assets/48623013/1a4dbe98-996e-408d-8b85-d5447d4f5b11)
+https://github.com/altopacademy/Mendeteksi-sentuhan-pada-logam-dengan-sensor-KY-036-Arduino-UNO-/blob/main/images/image1.png
 
 ## ⚙️ Komponen yang Diperlukan
 |No | Komponen | Jumlah | Deskripsi |
