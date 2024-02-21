@@ -33,7 +33,7 @@
 | DO | 7 |
 | AO | A0 |
   
-![Fantastic Jarv-Vihelmo (1)](https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/assets/48623013/f5e8e3f7-fded-4d0d-9084-83b9bb0939e9)
+[image](.images/image1.png)
 </details>
 
 
