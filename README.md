@@ -3,7 +3,8 @@
 > [!NOTE]
 > Halo semuanya, kali ini kita akan belajar untuk mendeteksi sentuhan pada logam menggunakan sensor KY-036 menggunakan Arduino UNO
 
-[image1](https://github.com/altopacademy/Mendeteksi-sentuhan-pada-logam-dengan-sensor-KY-036-Arduino-UNO-/blob/main/images/image1.png)
+![image1](https://github.com/altopacademy/Mendeteksi-sentuhan-pada-logam-dengan-sensor-KY-036-Arduino-UNO-/assets/48623013/8e35fdf6-b919-42fc-b577-2228de127044)
+
 
 ## ⚙️ Komponen yang Diperlukan
 |No | Komponen | Jumlah | Deskripsi |
