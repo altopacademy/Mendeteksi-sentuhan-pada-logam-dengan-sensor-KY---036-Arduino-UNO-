@@ -33,7 +33,7 @@
 | DO | 7 |
 | AO | A0 |
   
-![image](.images/image1.png)
+![image](./images/image1.png)
 </details>
 
 
