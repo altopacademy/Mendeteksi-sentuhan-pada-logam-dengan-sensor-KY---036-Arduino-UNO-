@@ -9,15 +9,16 @@
 ## ⚙️ Komponen yang Diperlukan
 |No | Komponen | Jumlah | Deskripsi |
 | --- | --- | --- | --- |
-| 1 | Arduino UNO | 1 | [link](https://shope.ee/2LA9ZZRSl4?share_channel_code=2) |
-| 2 | Kabel JUmper Male to Female | 4 | [link](https://shope.ee/5V7BLyRKg1?share_channel_code=2) |
-| 3 | LCD 16x2 I2C | 1 | [link](https://shope.ee/20XJBdpQrD?share_channel_code=2) |
+| 1 | Arduino UNO | 1 | [link](https://shope.ee/2LA9ZZRSl4) |
+| 2 | Kabel Jumper Male to Male | 6 | [link](https://shope.ee/5V7BLyRKg1) |
+| 3 | Metal Touch Sensor | 1 | [link](https://shope.ee/6pccqqQrqa) |
+| 4 | LED Merah | 1 | [link](https://shope.ee/9ewoEFOdhE) |
+| 5 | Resistor 1K | 1 | [link](https://shope.ee/3L2kgj5v96) |
 
 ## 💡 Software dan Librari yang digunakan
 |No | Komponen | Deskripsi |
 | --- | --- | --- |
 | 1 | Arduino IDE | [Download](https://www.arduino.cc/en/software) |
-| 2 | Librari LiquidCrystal_I2C | [Download](https://downloads.arduino.cc/libraries/github.com/marcoschwartz/LiquidCrystal_I2C-1.1.2.zip?_gl=1*hwesa7*_ga*MjkyMTI4NTA4LjE2OTc5NDMyNjE.*_ga_NEXN8H46L5*MTcwODMxMjkyNy40NS4xLjE3MDgzMTMwNjguMC4wLjA.*_fplc*b3N1eGVMdnRIQSUyQlREUjV1YjVpQ1A5VXZsU3YweE1aWmlyU2h0MjhFOUNLZW9xaW01MkdHcVdpNGVOdVhWaGhPNnRFJTJCSlZKWHFwSzFMcjRzJTJGZ0FvZnNqNmVlWnlIQXpjSngxZGd0MUlnMXNWdzB6MndjcXRDUlBpWGhrWVZBJTNEJTNE) |
 
 ## ⌛️ Tahapan Pengerjaan
 
@@ -29,8 +30,8 @@
 | --- | --- |
 | VCC | 5V |
 | GND | GND |
-| SDA | A4 |
-| SCL | A5 |
+| DO | 7 |
+| AO | A0 |
   
 ![Fantastic Jarv-Vihelmo (1)](https://github.com/altopacademy/Menampilkan-Text-di-LCD-16x2-I2C-dengan-Arduino-UNO/assets/48623013/f5e8e3f7-fded-4d0d-9084-83b9bb0939e9)
 </details>
